@@ -28,3 +28,10 @@ git merge basicstructures -m "merge with messgae"
 ```
 git branch -vv git push
 ```
+Suppose this line and below few lines are the work done by another employee say Ravi
+ 
+now this work can be pulled to local machine using below command
+```
+git pull
+```
+
