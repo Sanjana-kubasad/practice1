@@ -24,3 +24,7 @@ now switch to master and merge exp2 ends
 ```
 git merge basicstructures -m "merge with messgae"
 ```
+## Exp5 Git Push and Git Pull Confirm upstream and push
+```
+git branch -vv git push
+```
